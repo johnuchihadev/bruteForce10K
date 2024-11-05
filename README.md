@@ -44,6 +44,15 @@ To run the brute-force password checker, follow these steps:
    node bruteForce.js
    ```
 
+### Example password list (passwords.txt)
+
+```
+password123
+letmein
+qwerty
+123456
+```
+
 ## How It Works
 
 The script utilizes Node.js' `fs` and `readline` modules to read passwords from a file line by line. It compares each password with the target password until a match is found or the file ends.
