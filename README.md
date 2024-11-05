@@ -6,7 +6,6 @@ A Node.js script that performs a brute-force password search using a password li
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
 - [License](#license)
